@@ -12,4 +12,4 @@ Koristi ovaj redoslijed!
 2.script_ssl-1.1-and_other_auto_install.sh (ssl-wget)
 3.install_kernel_dependecies.sh  (or use curl for auto install from tbs)
 4.drv-tbs.sh (driver skripta)
-5.main_installer.sh (glavna skripta pokreni samo nju na isntaliranom sistemu MOIPRO-AMD)
+5.main_installer.sh (glavna skripta pokreni samo nju na isntaliranom sistemu MOIPRO-AMD) 
